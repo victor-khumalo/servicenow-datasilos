@@ -89,19 +89,20 @@ generateDescription();]]></description_generator>
         <sys_class_name>sys_atf_step_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-10-02 14:14:51</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>5f42f662db23d810ba15a353059619cd</sys_id>
         <sys_mod_count>40</sys_mod_count>
         <sys_name>DataSilos - Check ACLs</sys_name>
         <sys_package display_value="DataSilos" source="x_snc_datasilos">dafbffebdbb78450ba15a353059619eb</sys_package>
         <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="DataSilos">dafbffebdbb78450ba15a353059619eb</sys_scope>
         <sys_update_name>sys_atf_step_config_5f42f662db23d810ba15a353059619cd</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2021-06-30 12:39:51</sys_updated_on>
         <template_reminder>TBD</template_reminder>
-        <type display_value="Test Step" name="sys_atf_step">f653cf3f1b343010577f43b5bb4bcb46</type>
+        <type display_value="Test Step" name="sys_atf_step">5b7f14d5dc3603009d040dd064413274</type>
         <wizard_redirect/>
     </sys_atf_step_config>
-    <sys_translated_text action="delete_multiple" query="documentkey=5f42f662db23d810ba15a353059619cd"/>
     <sys_variable_value action="delete_multiple" query="document_key=5f42f662db23d810ba15a353059619cd"/>
 </record_update>

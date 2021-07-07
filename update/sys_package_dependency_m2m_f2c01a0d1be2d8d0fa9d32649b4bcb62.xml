@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Service Catalog" source="com.glideapp.servicecatalog">0182a0c0091112009d0420257921788a</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin_GE53559</sys_created_by>
+        <sys_created_on>2020-08-09 02:53:08</sys_created_on>
+        <sys_id>f2c01a0d1be2d8d0fa9d32649b4bcb62</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="DataSilos" source="x_snc_datasilos">dafbffebdbb78450ba15a353059619eb</sys_package>
+        <sys_updated_by>admin_GE53559</sys_updated_by>
+        <sys_updated_on>2020-08-09 02:53:08</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

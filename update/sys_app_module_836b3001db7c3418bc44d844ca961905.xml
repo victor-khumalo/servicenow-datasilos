@@ -3,6 +3,7 @@
         <active>true</active>
         <application display_value="DataSilos">949c7f2fdbb78450ba15a353059619d6</application>
         <assessment/>
+        <content_page/>
         <device_type/>
         <filter table="sys_db_view_table">table=incident^ORtable=incident_task^ORtable=problem^ORtable=problem_task^ORtable=change_request^ORtable=change_task^ORtable=sc_request^ORtable=sc_req_item^ORtable=sc_task^EQ<item endquery="false" field="table" goto="false" newquery="false" operator="=" or="false" value="incident"/>
             <item endquery="false" field="table" goto="false" newquery="false" operator="=" or="true" value="incident_task"/>
@@ -28,9 +29,12 @@
         <query>&amp;sysparm_view_forced=true&amp;sysparm_order=table&amp;sysparm_order_direction=asc</query>
         <report/>
         <roles>x_snc_datasilos.admin</roles>
+        <survey/>
+        <survey_overwrite>false</survey_overwrite>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-06-15 13:13:39</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>836b3001db7c3418bc44d844ca961905</sys_id>
@@ -39,6 +43,7 @@
         <sys_overrides/>
         <sys_package display_value="DataSilos" source="x_snc_datasilos">dafbffebdbb78450ba15a353059619eb</sys_package>
         <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="DataSilos">dafbffebdbb78450ba15a353059619eb</sys_scope>
         <sys_update_name>sys_app_module_836b3001db7c3418bc44d844ca961905</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>

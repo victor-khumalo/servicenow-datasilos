@@ -3,7 +3,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>number</element>
-            <list_id display_value="sc_task" element="NULL" name="sc_task" parent="NULL" relationship="NULL" sys_domain="global" view="268b1d0adb849090ba15a35305961902">2b69d0f91b632414a89720a8ec4bcbc9</list_id>
+            <list_id display_value="sc_task" element="NULL" name="sc_task" parent="NULL" relationship="NULL" sys_domain="global" view="268b1d0adb849090ba15a35305961902">5495c2461b791450a89720a8ec4bcbb6</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
@@ -18,7 +18,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sys_created_on</element>
-            <list_id display_value="sc_task" element="NULL" name="sc_task" parent="NULL" relationship="NULL" sys_domain="global" view="268b1d0adb849090ba15a35305961902">2b69d0f91b632414a89720a8ec4bcbc9</list_id>
+            <list_id display_value="sc_task" element="NULL" name="sc_task" parent="NULL" relationship="NULL" sys_domain="global" view="268b1d0adb849090ba15a35305961902">5495c2461b791450a89720a8ec4bcbb6</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
@@ -33,7 +33,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>request</element>
-            <list_id display_value="sc_task" element="NULL" name="sc_task" parent="NULL" relationship="NULL" sys_domain="global" view="268b1d0adb849090ba15a35305961902">2b69d0f91b632414a89720a8ec4bcbc9</list_id>
+            <list_id display_value="sc_task" element="NULL" name="sc_task" parent="NULL" relationship="NULL" sys_domain="global" view="268b1d0adb849090ba15a35305961902">5495c2461b791450a89720a8ec4bcbb6</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
@@ -48,7 +48,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>request_item</element>
-            <list_id display_value="sc_task" element="NULL" name="sc_task" parent="NULL" relationship="NULL" sys_domain="global" view="268b1d0adb849090ba15a35305961902">2b69d0f91b632414a89720a8ec4bcbc9</list_id>
+            <list_id display_value="sc_task" element="NULL" name="sc_task" parent="NULL" relationship="NULL" sys_domain="global" view="268b1d0adb849090ba15a35305961902">5495c2461b791450a89720a8ec4bcbb6</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
@@ -63,7 +63,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>short_description</element>
-            <list_id display_value="sc_task" element="NULL" name="sc_task" parent="NULL" relationship="NULL" sys_domain="global" view="268b1d0adb849090ba15a35305961902">2b69d0f91b632414a89720a8ec4bcbc9</list_id>
+            <list_id display_value="sc_task" element="NULL" name="sc_task" parent="NULL" relationship="NULL" sys_domain="global" view="268b1d0adb849090ba15a35305961902">5495c2461b791450a89720a8ec4bcbb6</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
@@ -78,7 +78,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>x_snc_datasilos_global</element>
-            <list_id display_value="sc_task" element="NULL" name="sc_task" parent="NULL" relationship="NULL" sys_domain="global" view="268b1d0adb849090ba15a35305961902">2b69d0f91b632414a89720a8ec4bcbc9</list_id>
+            <list_id display_value="sc_task" element="NULL" name="sc_task" parent="NULL" relationship="NULL" sys_domain="global" view="268b1d0adb849090ba15a35305961902">5495c2461b791450a89720a8ec4bcbb6</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>5</position>
@@ -93,7 +93,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>x_snc_datasilos_supervisor_whitelist</element>
-            <list_id display_value="sc_task" element="NULL" name="sc_task" parent="NULL" relationship="NULL" sys_domain="global" view="268b1d0adb849090ba15a35305961902">2b69d0f91b632414a89720a8ec4bcbc9</list_id>
+            <list_id display_value="sc_task" element="NULL" name="sc_task" parent="NULL" relationship="NULL" sys_domain="global" view="268b1d0adb849090ba15a35305961902">5495c2461b791450a89720a8ec4bcbb6</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>6</position>
@@ -108,7 +108,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>x_snc_datasilos_group_whitelist</element>
-            <list_id display_value="sc_task" element="NULL" name="sc_task" parent="NULL" relationship="NULL" sys_domain="global" view="268b1d0adb849090ba15a35305961902">2b69d0f91b632414a89720a8ec4bcbc9</list_id>
+            <list_id display_value="sc_task" element="NULL" name="sc_task" parent="NULL" relationship="NULL" sys_domain="global" view="268b1d0adb849090ba15a35305961902">5495c2461b791450a89720a8ec4bcbb6</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>7</position>
@@ -123,7 +123,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>x_snc_datasilos_security_clearance</element>
-            <list_id display_value="sc_task" element="NULL" name="sc_task" parent="NULL" relationship="NULL" sys_domain="global" view="268b1d0adb849090ba15a35305961902">2b69d0f91b632414a89720a8ec4bcbc9</list_id>
+            <list_id display_value="sc_task" element="NULL" name="sc_task" parent="NULL" relationship="NULL" sys_domain="global" view="268b1d0adb849090ba15a35305961902">5495c2461b791450a89720a8ec4bcbb6</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>8</position>
@@ -138,7 +138,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>x_snc_datasilos_ghost</element>
-            <list_id display_value="sc_task" element="NULL" name="sc_task" parent="NULL" relationship="NULL" sys_domain="global" view="268b1d0adb849090ba15a35305961902">2b69d0f91b632414a89720a8ec4bcbc9</list_id>
+            <list_id display_value="sc_task" element="NULL" name="sc_task" parent="NULL" relationship="NULL" sys_domain="global" view="268b1d0adb849090ba15a35305961902">5495c2461b791450a89720a8ec4bcbb6</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>9</position>
@@ -153,7 +153,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>x_snc_datasilos_last_maintenance</element>
-            <list_id display_value="sc_task" element="NULL" name="sc_task" parent="NULL" relationship="NULL" sys_domain="global" view="268b1d0adb849090ba15a35305961902">2b69d0f91b632414a89720a8ec4bcbc9</list_id>
+            <list_id display_value="sc_task" element="NULL" name="sc_task" parent="NULL" relationship="NULL" sys_domain="global" view="268b1d0adb849090ba15a35305961902">5495c2461b791450a89720a8ec4bcbb6</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>10</position>
@@ -168,7 +168,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>opened_by</element>
-            <list_id display_value="sc_task" element="NULL" name="sc_task" parent="NULL" relationship="NULL" sys_domain="global" view="268b1d0adb849090ba15a35305961902">2b69d0f91b632414a89720a8ec4bcbc9</list_id>
+            <list_id display_value="sc_task" element="NULL" name="sc_task" parent="NULL" relationship="NULL" sys_domain="global" view="268b1d0adb849090ba15a35305961902">5495c2461b791450a89720a8ec4bcbb6</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>11</position>
@@ -183,7 +183,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>assignment_group</element>
-            <list_id display_value="sc_task" element="NULL" name="sc_task" parent="NULL" relationship="NULL" sys_domain="global" view="268b1d0adb849090ba15a35305961902">2b69d0f91b632414a89720a8ec4bcbc9</list_id>
+            <list_id display_value="sc_task" element="NULL" name="sc_task" parent="NULL" relationship="NULL" sys_domain="global" view="268b1d0adb849090ba15a35305961902">5495c2461b791450a89720a8ec4bcbb6</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>12</position>
@@ -208,13 +208,15 @@
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2021-04-16 15:21:00</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>2b69d0f91b632414a89720a8ec4bcbc9</sys_id>
+            <sys_id>5495c2461b791450a89720a8ec4bcbb6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>sc_task</sys_name>
             <sys_package display_value="DataSilos" source="x_snc_datasilos">dafbffebdbb78450ba15a353059619eb</sys_package>
             <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="DataSilos">dafbffebdbb78450ba15a353059619eb</sys_scope>
             <sys_update_name>sys_ui_list_sc_task_datasilos</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>

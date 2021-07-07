@@ -118,6 +118,7 @@
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-06-28 13:38:13</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
         <sys_db_object display_value="" name="sys_atf_step">sys_atf_step</sys_db_object>
         <sys_id>40c254fb6220407488d8f965fad5f310</sys_id>
         <sys_metadata>d30a6d11db8ba050ba15a35305961972</sys_metadata>
@@ -126,6 +127,7 @@
         <sys_package display_value="DataSilos" source="x_snc_datasilos">dafbffebdbb78450ba15a353059619eb</sys_package>
         <sys_parent/>
         <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="DataSilos">dafbffebdbb78450ba15a353059619eb</sys_scope>
         <sys_scope_delete display_value="">13d28564f033417896743d5e7fb82131</sys_scope_delete>
         <sys_update_name>sys_atf_step_d30a6d11db8ba050ba15a35305961972</sys_update_name>
